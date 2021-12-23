@@ -7,6 +7,17 @@
 
 #Visit the repo here https://github.com/codejq/saudi-tax-qr-generator/
 
+### To check that you are generating a valid QR code use one of the following Apps
+ [E-Invoice QR Reader by CSERP](https://play.google.com/store/apps/details?id=com.cserp.csinvoice)
+   
+
+[KSA Invoice QR Reader](https://play.google.com/store/apps/details?id=com.izam.daftraksaeinvoicereader)
+       
+  [E-Invoice QR Reader KSA](https://play.google.com/store/apps/details?id=com.posbankbh.einvoiceqrreader)
+      
+    
+
+
 #The code is based on the following video
 
 https://www.youtube.com/watch?v=m0-NNuy9PSo
