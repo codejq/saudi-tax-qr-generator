@@ -6,6 +6,8 @@
 
 ### Visit the repo here https://github.com/codejq/saudi-tax-qr-generator/
 
+A PHP version is avilable from Hani Elazoul [PHP E-Invoice](https://github.com/hanielamir/E-Invoice)
+
 ### To check that you are generating a valid QR code use one of the following Apps
 
 [E-Invoice QR Reader by CSERP](https://play.google.com/store/apps/details?id=com.cserp.csinvoice)
@@ -19,3 +21,5 @@
 https://www.youtube.com/watch?v=m0-NNuy9PSo
 
 [![Alt text](https://img.youtube.com/vi/m0-NNuy9PSo/0.jpg)](https://www.youtube.com/watch?v=m0-NNuy9PSo)
+
+
