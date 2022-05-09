@@ -29,10 +29,8 @@
             let tag = hex_to_ascii(tageOrder.toString().padStart(2, "0"));
             let stringLength = hex_to_ascii(IntToHex(unescape(encodeURIComponent(arguments[i].toString())).length))
             code += tag + stringLength + arguments[i];
-            console.log(code)
-            console.log(arguments[i].toString().length)
         }
-        let b64 = btoa(unescape(encodeURIComponent(code + hex_to_ascii("06"))));
+        let b64 = btoa(unescape(encodeURIComponent(code)));
 
         return b64;
 
